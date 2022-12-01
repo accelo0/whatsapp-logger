@@ -7,5 +7,4 @@ Start with:
 4. Wait the QRcode
 5. Scan the QRcode
 6. Wait someone sends a message (audio, text or sticker) and check `.logs/log.txt`
-
-enjoy! (also if is bad!)
+7. End, enojoy using the logger
